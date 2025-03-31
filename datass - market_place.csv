@@ -1,0 +1,33 @@
+Market,Zone,Min_Footfall,Max_Footfall,Avg_Daily_Footfall_Mean,Latitude,Longitude
+"Kamla Nagar",North,25000,40000,32500,28.6791,77.2054
+"Hudson Lane (GTB Nagar)",North,10000,20000,15000,28.6973,77.2150
+"Majnu Ka Tilla",North,5000,10000,7500,28.7197,77.2210
+"Sadar Bazaar",Central,100000,200000,150000,28.653,77.2040
+"Chandni Chowk",Central,300000,500000,400000,28.6562,77.2301
+"Azadpur Mandi",North,250000,400000,325000,28.7046,77.1889
+"Rohini Sector 18 Market",North West,15000,30000,22500,28.7387,77.1173
+"Laxmi Nagar",East,100000,200000,150000,28.6361,77.2784
+"Preet Vihar Market",East,50000,100000,75000,28.6425,77.2915
+"Shahdara Main Market",East,100000,150000,125000,28.6725,77.2918
+"Anand Vihar Market",East,70000,150000,110000,28.6436,77.3161
+"Krishna Nagar Market",East,30000,70000,50000,28.6574,77.2775
+"Hauz Khas Village",South,10000,20000,15000,28.5535,77.1926
+"Khan Market",New Delhi,10000,15000,12500,28.6002,77.2270
+"Sarojini Nagar",South,200000,300000,250000,28.5763,77.1995
+"Lajpat Nagar",South,250000,400000,325000,28.5678,77.2433
+"Greater Kailash (M Block)",South,50000,100000,75000,28.548,77.2403
+"Nehru Place",South,150000,200000,175000,28.5477,77.2519
+"Mehrauli (MG Road)",South,20000,40000,30000,28.5149,77.1822
+"Rajouri Garden",West,200000,300000,250000,28.6491,77.1230
+"Janakpuri District Center",West,100000,150000,125000,28.6245,77.0862
+"Paschim Vihar Market",West,50000,100000,75000,28.6756,77.0886
+"Tilak Nagar Market",West,100000,200000,150000,28.6463,77.0987
+"Uttam Nagar Market",West,50000,100000,75000,28.6223,77.0749
+"Seelampur Wholesale Market",North East,150000,200000,175000,28.6743,77.2905
+"Welcome Sabzi Mandi",North East,100000,150000,125000,28.6831,77.2789
+"Chauhan Market, Seelampur",North East,50000,80000,65000,28.6682,77.295
+"Gokulpuri Main Market",North East,70000,120000,95000,28.6905,77.2721
+"Dwarka Sector 6 Market",South West,30000,50000,40000,28.5843,77.0542
+"Najafgarh Main Market",South West,80000,120000,100000,28.6095,76.9873
+"Kapashera Border Market",South West,50000,100000,75000,28.521,77.0605
+"Dwarka Sector 10 Market",South West,20000,40000,30000,28.5698,77.0397

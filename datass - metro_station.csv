@@ -1,0 +1,254 @@
+stop_id,stop_name,Zone,stop_lat,stop_lon
+1,Dilshad Garden,North East,28.675991,77.321495
+2,Jhilmil,East,28.675648,77.312393
+3,Mansarovar Park,East,28.675352,77.301178
+4,Shahdara,North East,28.673531,77.28727
+5,Welcome,East,28.671986,77.277931
+6,Seelam Pur,East,28.670324,77.267311
+7,Shastri Park,Central,28.668451,77.250404
+8,Kashmere Gate,North West,28.667879,77.228012
+9,Tis Hazari,Central,28.667137,77.216721
+10,Pul Bangash,North,28.66571,77.206329
+11,Pratap Nagar,North,28.666632,77.196869
+12,Shastri Nagar,North West,28.670135,77.181679
+13,Inderlok,North West,28.673452,77.170235
+14,Kanhaiya Nagar,North West,28.682386,77.162552
+15,Keshav Puram,North West,28.688944,77.161774
+16,Netaji Subhash Place,North West,28.695637,77.152428
+17,Kohat Enclave,North West,28.697943,77.140465
+18,Pitampura,North West,28.70318,77.132355
+19,Rohini East,North West,28.707941,77.125732
+20,Rohini West,North West,28.715008,77.115746
+21,Rithala,North West,28.720821,77.105042
+22,Mundka,West,28.682411,77.028282
+23,Rajdhani Park,West,28.682217,77.043869
+24,Nangloi Railway Station,West,28.682091,77.05619
+25,Nangloi,West,28.682356,77.064728
+26,Maharaja Surajmal Stadium,West,28.681833,77.073891
+27,Udyog Nagar,West,28.681047,77.078674
+28,Peera Garhi,West,28.67972,77.092491
+29,Paschim Vihar (West),West,28.678539,77.102119
+30,Paschim Vihar (East),West,28.677305,77.112251
+31,Madipur,West,28.676418,77.117294
+32,Shivaji Park,West,28.674965,77.128258
+33,Punjabi Bagh,West,28.672943,77.146011
+34,Ashok Park Main,West,28.671572,77.155159
+35,Satguru Ram Singh Marg,West,28.662188,77.157829
+36,Samaypur Badli,North West,28.742872,77.146545
+37,Rohini Sector 18-19,North West,28.740192,77.135574
+38,Haiderpur Badli Mor,North West,28.718657,77.149956
+39,Jahangirpuri,North West,28.72818,77.16124
+40,Adarsh Nagar,North West,28.696377,77.208809
+41,Azadpur,North West,28.707287,77.179863
+42,Model Town,North West,28.702833,77.193764
+43,Guru Tegh Bahadur Nagar,North West,28.698195,77.206985
+44,Vishwavidyalaya,Central,28.694765,77.212418
+45,Vidhan Sabha,Central,28.687845,77.221626
+46,Civil Lines,North,28.676945,77.224953
+47,Chandni Chowk,Central,28.656443,77.229218
+48,Chawri Bazar,Central,28.649635,77.22628
+49,Patel Chowk,New Delhi,28.622967,77.212288
+50,Central Secretariat,New Delhi,28.614973,77.212029
+51,Udyog Bhawan,New Delhi,28.611525,77.210052
+52,Lok Kalyan Marg,New Delhi,28.597519,77.209122
+53,Jorbagh,New Delhi,28.587234,77.212662
+54,Dilli Haat - INA,South,28.575195,77.209473
+55,Green Park,South,28.559853,77.206902
+56,Hauz Khas,South,28.543346,77.206673
+57,Malviya Nagar,South,28.52817,77.205612
+58,Saket,South,28.520638,77.199379
+59,Qutab Minar,South,28.512714,77.185791
+60,Chhattarpur,South,28.506584,77.174866
+61,Sultanpur,South,28.499214,77.161362
+62,Ghitorni,South,28.49383,77.149071
+63,Arjan Garh,South,28.48082,77.12587
+64,Gurudronacharya,South,28.482075,77.102219
+65,Sikanderpur,NCR region,28.481352,77.092995
+66,MG Road,NCR region,28.47967,77.080444
+67,IFFCO Chowk,NCR region,28.472137,77.072502
+68,Huda City Centre,NCR region,28.459118,77.072586
+69,Vaishali,East,28.650059,77.337608
+70,Kaushambi,East,28.645428,77.322273
+71,Anand Vihar,East,28.647005,77.316185
+72,Karkarduma,East,28.648653,77.304581
+73,Preet Vihar,East,28.641352,77.295158
+74,Nirman Vihar,East,28.637049,77.287872
+75,Laxmi Nagar,East,28.629843,77.276428
+76,Noida City Centre,NCR region,28.574593,77.356117
+77,Golf Course,NCR region,28.566917,77.345726
+78,Botanical Garden,NCR region,28.564198,77.334656
+79,Noida Sec -18,NCR region,28.570843,77.326088
+80,Noida Sec -16,NCR region,28.577921,77.318115
+81,Noida Sec -15,NCR region,28.585018,77.311584
+82,New Ashok Nagar,East,28.58847,77.30146
+83,Mayur Vihar Ext,East,28.594124,77.294495
+84,Mayur Vihar-I,East,28.604425,77.289421
+85,Yamuna Bank,Central,28.623178,77.267937
+86,Indraprastha,Central,28.620272,77.250076
+87,Supreme Court,New Delhi,28.623438,77.2425
+88,Mandi House,Central,28.625816,77.234726
+89,Barakhamba,Central,28.629662,77.224876
+90,RK Ashram Marg,Central,28.639217,77.206291
+91,Jhandewalan,Central,28.644312,77.199791
+92,Karol Bagh,Central,28.643925,77.188416
+93,Rajendra Place,West,28.64241,77.191833
+94,Patel Nagar,West,28.645037,77.167046
+95,Shadipur,Central,28.65143,77.156021
+96,Kirti Nagar,West,28.655773,77.148499
+97,Moti Nagar,West,28.657803,77.140488
+98,Ramesh Nagar,West,28.652809,77.131462
+99,Rajouri Garden,West,28.649157,77.122749
+100,Tagore Garden,West,28.643795,77.112747
+101,Subash Nagar,West,28.640381,77.10273
+102,Tilak Nagar,West,28.636568,77.096336
+103,Janak Puri East,West,28.633121,77.086578
+104,Janak Puri West,West,28.629637,77.077866
+105,Uttam Nagar East,West,28.624643,77.063126
+106,Uttam Nagar West,West,28.621672,77.055664
+107,Nawada,West,28.620222,77.044991
+108,Dwarka Mor,South West,28.619366,77.033188
+109,Dwarka,South West,28.614899,77.022629
+110,Dwarka Sector - 14,South West,28.602232,77.02594
+111,Dwarka Sector - 13,South West,28.59705,77.033043
+112,Dwarka Sector - 12,South West,28.592234,77.040558
+113,Dwarka Sector - 11,South West,28.58642,77.049255
+114,Dwarka Sector - 10,South West,28.581108,77.05719
+115,Dwarka Sector - 9,South West,28.574284,77.065086
+116,Dwarka Sector - 8,South West,28.565706,77.064896
+117,Dwarka Sector - 21,South West,28.552322,77.056198
+118,ITO,Central,28.627205,77.240952
+119,Janpath,New Delhi,28.627817,77.218956
+120,Khan Market,New Delhi,28.602682,77.228096
+121,Jawahar Lal Nehru Stadium,Central,28.590475,77.23307
+122,Jangpura,South,28.583231,77.239662
+123,Lajpat Nagar,South,28.570705,77.233124
+124,Moolchand,South,28.564629,77.234222
+125,Kailash Colony,South,28.554617,77.239738
+126,Nehru Place,South,28.551134,77.251511
+127,Kalkaji Mandir,South,28.549532,77.258789
+128,Govind Puri,South,28.544413,77.264259
+129,Harkesh Nagar Okhla,South,28.543194,77.275955
+130,Jasola-Apollo,South,28.538084,77.285538
+131,Sarita Vihar,South,28.528622,77.288345
+132,Mohan Estate,South,28.51959,77.294518
+133,Tughlakabad Station,South,28.502232,77.29866
+134,Badarpur Border,South,28.4932,77.30085
+135,Sarai,South,28.47794,77.304932
+136,NHPC Chowk,South,28.462435,77.305252
+137,Mewala Maharajpur,South,28.4485,77.308098
+138,Sector-28,South,28.440586,77.305992
+139,Badkal Mor,South,28.422707,77.310234
+140,Old Faridabad,NCR region,28.412172,77.311272
+141,Neelam Chowk Ajronda,NCR region,28.400707,77.309105
+142,Bata Chowk,NCR region,28.386362,77.298782
+143,Escorts Mujesar,NCR region,28.370199,77.315002
+144,Sikanderpur (Rapid Metro),NCR region,28.480833,77.094246
+145,Phase 2 (Rapid Metro),NCR region,28.488371,77.092865
+146,Belvedere Towers (Rapid Metro),NCR region,28.492065,77.088142
+147,Cyber City (Rapid Metro),NCR region,28.498478,77.089088
+148,Moulsari Avenue (Rapid Metro),NCR region,28.501572,77.094536
+149,Phase 3 (Rapid Metro),NCR region,28.494329,77.093552
+150,Delhi Gate,Central,28.640488,77.240303
+151,Jama Masjid,Central,28.650393,77.237556
+152,Okhla Bird Sanctuary,South,28.552816,77.321564
+153,Kalindi Kunj,South,28.542835,77.310173
+154,Jasola Vihar Shaheen Bagh,South,28.546005,77.296715
+155,Okhla Vihar,South,28.561255,77.291916
+156,Jamia Millia Islamia,South,28.562944,77.286209
+157,Sukhdev Vihar,South,28.559887,77.275116
+158,Okhla NSIC,South,28.554575,77.26487
+159,Phase-I (Rapid Metro),NCR region,28.471981,77.094009
+160,Sector 42-43 (Rapid Metro),NCR region,28.458475,77.09684
+161,Sector 53-54 (Rapid Metro),NCR region,28.447533,77.100487
+162,Sector 54 Chowk (Rapid Metro),NCR region,28.434212,77.104782
+163,Sector 55-56 (Rapid Metro),NCR region,28.424587,77.105042
+164,Majlis Park,North West,28.724157,77.182068
+165,Shalimar Bagh,North West,28.70182,77.165184
+166,Shakurpur,North West,28.685781,77.149651
+167,Punjabi Bagh West,West,28.672747,77.139183
+168,ESI Basai Darapur,West,28.658159,77.127319
+169,Mayapuri,West,28.637098,77.129738
+170,Naraina Vihar,West,28.624121,77.136482
+171,Delhi Cantt.,South West,28.608641,77.140373
+172,Durgabai Deshmukh South Campus,South,28.589376,77.169518
+173,Nehru Enclave,South,28.545856,77.25116
+174,Greater Kailash,South,28.541836,77.238243
+175,Chirag Delhi,South,28.541229,77.229385
+176,Panchsheel Park,South,28.542339,77.220512
+177,IIT,South,28.547194,77.193832
+178,RK Puram,South,28.550486,77.184952
+179,Munirka,South,28.557821,77.174026
+180,Vasant Vihar,South,28.558378,77.160774
+181,Shankar Vihar,South,28.560787,77.140442
+182,Terminal 1- IGI Airport,South,28.565275,77.122391
+183,Sadar Bazar Contonment,South West,28.577108,77.111305
+184,Palam,South West,28.589067,77.082954
+185,Dashrath Puri,South West,28.602333,77.08255
+186,Dabri Mor - Janakpuri South,South West,28.615904,77.085258
+187,Mundka Industrial Area (M.I.A),West,28.68396,76.989822
+188,Ghevra Metro station,West,28.685289,76.993584
+189,Tikri Kalan,North West,28.686899,76.977249
+190,Tikri Border,North West,28.687876,76.963783
+191,Pandit Shree Ram Sharma,NCR region,28.689213,76.951088
+192,Bahadurgarh City,NCR region,28.690784,76.935265
+193,Brigadier Hoshiyar Singh,NCR region,28.697428,76.919128
+194,Sir Vishweshwaraiah Moti Bagh,South West,28.578529,77.175713
+195,Bhikaji Cama Place,South,28.570208,77.187866
+196,Sarojini Nagar,South,28.570208,77.187866
+197,South Extension,South,28.5686,77.219818
+198,Trilokpuri Sanjay Lake,East,28.613506,77.308678
+199,East Vinod Nagar - Mayur Vihar-II,East,28.620052,77.305588
+200,Mandawali - West Vinod Nagar,East,28.624861,77.304146
+201,IP Extension,East,28.631599,77.310898
+202,Karkarduma Court,East,28.649473,77.295341
+203,Krishna Nagar,East,28.65782,77.290306
+204,East Azad Nagar,East,28.665043,77.284599
+205,Jafrabad,North East,28.682943,77.27507
+206,Maujpur - Babarpur,North East,28.692057,77.280922
+207,Gokulpuri,North East,28.703009,77.286301
+208,Johri Enclave,North East,28.713297,77.290154
+209,Shiv Vihar,North East,28.721863,77.289635
+210,Sant Surdas (Sihi),North East,28.354666,77.316261
+211,Raja Nahar Singh,North East,28.339899,77.331657
+212,Vinobapuri,North East,28.566179,77.249367
+213,Ashram,South,28.576065,77.25753
+214,Sarai Kale Khan - Nizamuddin,South,28.5889,77.253189
+215,Mayur Vihar Pocket 1,East,28.606598,77.296326
+216,Shaheed Sthal (New Bus Adda),NCR region,28.670177,77.416031
+217,Hindon River,NCR region,28.673508,77.40654
+218,Arthala,NCR region,28.6772,77.391876
+219,Mohan Nagar,NCR region,28.67856,77.384209
+220,Shyam Park,North West,28.678217,77.370911
+221,Major Mohit Sharma Rajender Nagar,North West,28.678095,77.359528
+222,Raj Bagh,North West,28.677122,77.346466
+223,Shaheed Nagar,North West,28.676615,77.333809
+224,Noida Sec-34,NCR region,28.580229,77.363518
+225,Noida Sec-52,NCR region,28.586849,77.372749
+226,Noida Sec-61,NCR region,28.597677,77.372368
+227,Noida Sec-59,NCR region,28.609089,77.372955
+228,Noida Sec-62,NCR region,28.616991,77.373611
+229,Noida Electronic City,NCR region,28.628685,77.375229
+230,Nangli,NCR region,28.61722,77.010345
+231,Najafgarh,South West,28.613316,76.986259
+232,Dhansa Bus Stand,South West,28.611858,76.975426
+233,Noida Sector 51,NCR region,28.585548,77.375374
+234,Noida Sector 50,NCR region,28.574547,77.378357
+235,Noida Sector 76,NCR region,28.565445,77.37973
+236,Noida Sector 101,NCR region,28.556065,77.385056
+237,Noida Sector 81,NCR region,28.549259,77.390099
+238,NSEZ,NCR region,28.532248,77.394951
+239,Noida Sector 83,NCR region,28.522284,77.396477
+240,Noida Sector 137,NCR region,28.510817,77.403625
+241,Noida Sector 142,NCR region,28.498999,77.412567
+242,Noida Sector 143,NCR region,28.494246,77.422318
+243,Noida Sector 144,NCR region,28.486376,77.432968
+244,Noida Sector 145,NCR region,28.47913,77.442307
+245,Noida Sector 146,NCR region,28.468822,77.455101
+246,Noida Sector 147,NCR region,28.4594,77.465965
+247,Noida Sector 148,NCR region,28.448021,77.476692
+248,Knowledge Park,NCR region,28.456865,77.500298
+249,Pari Chowk,NCR region,28.463331,77.508308
+250,Alpha 1,NCR region,28.470879,77.512718
+251,Delta 1,NCR region,28.478374,77.525581
+252,GNIDA Office,NCR region,28.484531,77.536621
+253,Depot Station,NCR region,28.488651,77.544075
